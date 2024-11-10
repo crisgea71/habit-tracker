@@ -1,0 +1,22 @@
+/* App.css */
+.App {
+    text-align: center;
+    padding: 20px;
+    background: lightblue;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+td {
+    cursor: pointer;
+    text-align: center;
+}
